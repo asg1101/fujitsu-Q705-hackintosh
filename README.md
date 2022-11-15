@@ -1,4 +1,4 @@
-# fujitsu-Q705-hackintosh
+# fujitsu-Q775-hackintosh
 比较完善了
 已知bug：
 1、没有声音，可以用蓝牙耳机或蓝牙音箱测试，未实测。
